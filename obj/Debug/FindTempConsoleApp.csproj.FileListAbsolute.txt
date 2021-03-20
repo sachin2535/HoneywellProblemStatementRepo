@@ -1,0 +1,14 @@
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\bin\Debug\FindTempConsoleApp.exe.config
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\bin\Debug\FindTempConsoleApp.exe
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\bin\Debug\FindTempConsoleApp.pdb
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\obj\Debug\FindTempConsoleApp.csprojAssemblyReference.cache
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\obj\Debug\FindTempConsoleApp.csproj.CoreCompileInputs.cache
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\obj\Debug\FindTempConsoleApp.exe
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\obj\Debug\FindTempConsoleApp.pdb
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\bin\Debug\Unity.Abstractions.dll
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\bin\Debug\Unity.Container.dll
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\bin\Debug\Unity.Abstractions.pdb
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\bin\Debug\Unity.Container.pdb
+E:\Interview\FindTempConsoleApp\FindTempConsoleApp\obj\Debug\FindTempConsoleApp.csproj.CopyComplete
